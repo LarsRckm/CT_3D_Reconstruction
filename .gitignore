@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Generated reconstruction outputs (produced when running the script)
+*.tif
+*.tiff
+*.npy
+*.stl
+view_3d.html
+preview_*.png
+metadata.json
+*_3d/
+*_out/
+output/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
